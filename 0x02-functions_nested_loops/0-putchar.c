@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 *main - prints _putschar followed by a new line
 *Return:0(Hurray)
@@ -14,6 +15,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }

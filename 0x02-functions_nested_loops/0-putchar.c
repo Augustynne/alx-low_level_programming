@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
 *main - prints _putschar followed by a new line
 *Return:0(Hurray)
